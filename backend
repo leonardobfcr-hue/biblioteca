@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "backend biblioteca"
+git branch -M main
+git remote add origin https://github.com/SEU_USUARIO/biblioteca-backend.git
+git push -u origin main
